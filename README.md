@@ -12,7 +12,7 @@ It might interest you Chief to know that:-
 - 👯 I’m looking to collaborate on ... Anything Javascript and or Reactjs
 - 🤔 I’m looking for help with ...DevOps and Vue js
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [Website:](https://byteloops.com)
+- 📫 How to reach me: ... [Website:](https://www.linkedin.com/in/nsikakowo/)
 
 -->
 
