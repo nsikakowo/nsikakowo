@@ -1,7 +1,7 @@
 # Hello Chief, - This is OwO👋
 The Developer not the Artist.... Yea, there's two of us
 
-![alt text](https://media-exp1.licdn.com/dms/image/C4E16AQEw0FKfxZ8xkw/profile-displaybackgroundimage-shrink_200_800/0/1617858551847?e=1628121600&v=beta&t=NJcH0v8sdSTgm13pYMgXQNnfB7Ol_s0SFTG9bCI0N7g)
+![alt text](https://e7.pngegg.com/pngimages/917/980/png-clipart-smart-robot-playing-computer-robot.png)
 
 
 Chief, - I am a Frontend Developer || Javascript || Reactjs || CMS(Wordpress etc.) || Woocommerce || Nodejs || Trying to make a switch to DevOps Engineer
