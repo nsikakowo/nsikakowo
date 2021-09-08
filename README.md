@@ -1,7 +1,7 @@
 # Hello Chief, - This is OwO👋
 The Developer not the Artist.... Yea, there's two of us
 
-![alt text](https://mpng.subpng.com/20180326/doq/kisspng-robots-of-the-future-lego-mindstorms-nxt-desktop-w-robotics-5ab9234a29d470.8166612315220826341713.jpg)
+![alt text](https://pngimage.net/wp-content/uploads/2018/06/robotica-png-6.png)
 
 
 Chief, - I am a Frontend Developer || Javascript || Reactjs || CMS(Wordpress etc.) || Woocommerce || Nodejs || Trying to make a switch to DevOps Engineer
