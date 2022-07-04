@@ -3,7 +3,7 @@
 Chief, - I am a Frontend Developer || Javascript || Reactjs || Nextjs || Shopify || Nodejs || Trying to make a switch to Blockchain
 
 It might interest you Chief to know that:-
-- 🔭 I’m currently working on ... A decentralized marketplace on the blockchain 
+- 🔭 I’m currently working on ... A Scandanavian NFT Project on the ethereum chain   
 - 🌱 I’m currently learning ...More Reactjs || Solidity
 - 👯 I’m looking to collaborate on ... Anything Javascript and or Reactjs
 - 🤔 I’m looking for help with ...Solidity
@@ -50,6 +50,6 @@ It might interest you Chief to know that:-
 
 ## Enjoy
 
-Look around, fork whatever is forkable and clone whatever is clonable, If you have any questions,I am always available on any of the platforms to respond.
+Look around, fork whatever is forkable😉 and clone whatever is clonable, If you have any questions, I am always available on any of the platforms to respond.
 
-# Please do stay safe👋
+# Chief, Please do stay safe👋
