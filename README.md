@@ -4,8 +4,8 @@ Chief, - I am a Frontend Developer || Javascript || Reactjs || Nextjs || Shopify
 
 It might interest you Chief to know that:-
 - 🔭 I’m currently working on ... A Scandanavian NFT Project on the ethereum chain   
-- 🌱 I’m currently learning ...More Reactjs || Solidity
-- 👯 I’m looking to collaborate on ... Anything Javascript and or Reactjs
+- 🌱 I’m currently learning ...More Nextjs & Solidity
+- 👯 I’m looking to collaborate on ... Anything Javascript and or Nextjs
 - 🤔 I’m looking for help with ...Solidity
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... [Website:](https://nsikakowo.xyz/)
