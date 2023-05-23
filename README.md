@@ -1,14 +1,14 @@
 # Hello Chief, - This is OwO👋
 
-Chief, - I am a Frontend Developer || Javascript || Reactjs || Nextjs || React Native || Nodejs || Trying to make a switch to Blockchain
+Senior Frontend Developer || Javascript || Reactjs || Nextjs || React Native || Nodejs || Trying to make a switch to Blockchain
 
 It might interest you Chief to know that:-
 - 🔭 I’m currently working on ... A Multi-location event app   
 - 🌱 I’m currently learning ...More React Native
 - 👯 I’m looking to collaborate on ... Anything Javascript and or React Native
-- 🤔 I’m looking for help with ...Backend for my app
+- 🤔 I’m looking for help with ...Backend for my Multi-location event app
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [Website:](https://nsikakowo.xyz/)
+- 📫 How to reach me: ... [Website:](https://nsikakowo.netlify.app/)
 
 -->
 
