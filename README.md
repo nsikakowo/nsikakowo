@@ -1,6 +1,6 @@
-# Hello Chief, - This is OwO👋
+# Hello, - This is OwO👋
 
-Senior Frontend Developer || Javascript || Reactjs || Nextjs || React Native || Nodejs || Trying to make a switch to Blockchain
+Frontend Developer || Javascript || Reactjs || Nextjs || React Native || Nodejs || 
 
 It might interest you Chief to know that:-
 - 🔭 I’m currently working on ... A Multi-location event app   
@@ -52,4 +52,4 @@ It might interest you Chief to know that:-
 
 Look around, fork whatever is forkable😉 and clone whatever is clonable, If you have any questions, I am always available on any of the platforms to respond.
 
-# Chief, Please do stay safe👋
+# Please do stay safe👋
